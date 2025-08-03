@@ -13,8 +13,8 @@ import pandas as pd
 from datetime import datetime
 
 # === CONFIGURATION ===
-API_KEY = "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"
-PLACE_ID = "ChIJN1t_tDeuEmsRUsoyG83frY4" # 🆔 Sassy Mama Sweets (Southington, CT) update to PLACE_ID = "ChIJ2ZiapDW354kRBHjHUvTnMJo"
+API_KEY = "place_KEY_HERE"
+PLACE_ID = "PLACE_id_HERE" # 🆔 Sassy Mama Sweets (Southington, CT) 
 FIELDS = "name,rating,reviews,user_ratings_total"
 # =======================
 
