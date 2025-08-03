@@ -119,7 +119,7 @@ import time
 DB_NAME = "review_data.db"
 INPUT_TABLE = "google_reviews"
 OUTPUT_TABLE = "review_insights"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY =OPENAI_API_KEY = "your-openai-api-key"
 # 🔐 Replace with your actual API key
 MODEL = "gpt-3.5-turbo"  # or "gpt-3.5-turbo" if you're on a budget like me
 # =======================
